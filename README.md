@@ -1,16 +1,3 @@
-# ble_device
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter Internet of Things
+Simple projct that use both side of native. On Flutter we have home page with button to scan devices near you and we have method channel with arguments that need to send so native side can recognize what to do. 
+After scanning you press on device that you want to connect to and whoala!
